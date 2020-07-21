@@ -1,0 +1,34 @@
+﻿ {
+    "employee": [
+      {
+        "name": "Maria A",
+        "age": "20",
+        "address": "UK",
+        "salary": "2000"
+      },
+      {
+        "name": "Ana A",
+        "age": "20",
+        "address": "US",
+        "salary": "2000"
+      },
+      {
+        "name": "Louise P",
+        "age": "20",
+        "address": "US",
+        "salary": "2000"
+      },
+      {
+        "name": "Kevin C",
+        "age": "20",
+        "address": "US",
+        "salary": "2000"
+      },
+      {
+        "name": "Peter G",
+        "age": "20",
+        "address": "US",
+        "salary": "2000"
+      }
+    ]
+  }
